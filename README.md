@@ -19,7 +19,7 @@ Permite ingresar los datos del servidor, autenticarse y enviar un mensaje direct
 1. **Clonar el repositorio**
 
    ```bash
-   git clone git@github.com:darioespinola/email-sender.git
+   git clone git@github.com:despinola91/email-sender.git
    cd email-sender
       
 2. Compilar el proyecto
